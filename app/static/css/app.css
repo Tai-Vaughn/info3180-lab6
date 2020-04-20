@@ -5,3 +5,13 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.card {
+    border-top-color: green ;
+    border-top-width: 3px;
+}
+
+.news__item {
+    height:50%; 
+    width:25%;
+  }
